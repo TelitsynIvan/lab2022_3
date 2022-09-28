@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab03/MyVector/bin/Debug/net6.0/MyVector.deps.json
+/Users/marmelad/RiderProjects/lab03/MyVector/bin/Debug/net6.0/MyVector.dll
+/Users/marmelad/RiderProjects/lab03/MyVector/bin/Debug/net6.0/MyVector.pdb
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.dll
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/refint/MyVector.dll
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/MyVector.pdb
+/Users/marmelad/RiderProjects/lab03/MyVector/obj/Debug/net6.0/ref/MyVector.dll

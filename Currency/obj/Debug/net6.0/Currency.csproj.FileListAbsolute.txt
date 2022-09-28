@@ -1,0 +1,12 @@
+/Users/marmelad/RiderProjects/lab03/Currency/bin/Debug/net6.0/Currency.deps.json
+/Users/marmelad/RiderProjects/lab03/Currency/bin/Debug/net6.0/Currency.dll
+/Users/marmelad/RiderProjects/lab03/Currency/bin/Debug/net6.0/Currency.pdb
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.csproj.AssemblyReference.cache
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.AssemblyInfoInputs.cache
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.AssemblyInfo.cs
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.csproj.CoreCompileInputs.cache
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.dll
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/refint/Currency.dll
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/Currency.pdb
+/Users/marmelad/RiderProjects/lab03/Currency/obj/Debug/net6.0/ref/Currency.dll
